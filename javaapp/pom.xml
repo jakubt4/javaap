@@ -63,7 +63,7 @@ http://maven.apache.org/maven-v4_0_0.xsd">
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>PATH-TO-APP</mainClass>
+                    <mainClass>example.App</mainClass>
                 </configuration>
             </plugin>
             <plugin>
